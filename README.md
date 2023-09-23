@@ -1,4 +1,4 @@
-# Opis
+# Description
 
 Aplikacja, która wyświetla rozkład jazdy autobusów i lokalizację przystanków w Ostrowie Wielkopolskim. / An application that displays bus schedules and the location of bus stops in Ostrów Wielkopolski.
 
